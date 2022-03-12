@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasseneing&label=Profile%20views&color=0e75b6&style=flat" alt="hasseneing" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasseneing" alt="hasseneing" /></a> </p>
-
 - 🔭 I’m currently working on [Pharmax](https://github.com/HasseneING/pharmax)
 
 - 👨‍💻 All of my projects are available at [https://github.com/HasseneING](https://github.com/HasseneING)
